@@ -14,8 +14,11 @@ Cấu hình định tuyến và kiểm tra kết nối giữa các mạng bằng
 Câu 1. Xác định địa chỉ IP của máy đang sử dụng, mặt nạ mạng, địa chỉ Gateway, địa chỉ máy chủ DNS. 
 Bài làm:
 Dùng lệnh ipconfig để xác định:
+ipconfig
 Hoặc
 Dùng lệnh ipconfig /allcompartments /all để xác định:
+ipconfig /allcompartments /all
+=> Kết quả:
 - Địa chỉ IP (IPv4 Address): xxxxxxxxxxxxxxxxxxxx
 - Mặt nạ mạng (Subnet Mask): xxxxxxxxxxxxxxxxxxxx
 - Địa chỉ Gateway (Default Gateway): xxxxxxxxxxxxxxxxxxxx
