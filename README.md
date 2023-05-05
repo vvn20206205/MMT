@@ -1,5 +1,5 @@
-[de1](url)
+[Bài thực hành số 1](url)
 
-[de1](url)
+[Bài thực hành số 2](url)
 
-[de1](url)
+[Bài thực hành số 3](url)
