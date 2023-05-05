@@ -8,10 +8,13 @@
 Cisco Packet Tracer
 Wireshark
 FileZilla Client
+
 https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview
+
 https://skillsforall.com/resources/lab-downloads
 ### Bài thực hành số 1
 [Video 1.1](https://web.microsoftstream.com/video/6280ffa7-6260-49e4-986e-63a8f4343d52)
+
 [Video 1.2](https://web.microsoftstream.com/video/7f579599-9f14-4483-959a-ede7babf087d)
 ### Bài thực hành số 2
 [Video 2](https://web.microsoftstream.com/video/bb94ee33-a9fb-4c58-8e29-cc6729bc4ff4)
