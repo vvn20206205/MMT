@@ -23,7 +23,7 @@ Dùng lệnh ipconfig /allcompartments /all để xác định:
 - Địa chỉ Gateway (Default Gateway): xxxxxxxxxxxxxxxxxxxx
 - Địa chỉ máy chủ DNS (DNS Servers): xxxxxxxxxxxxxxxxxxxx
 '''
-
+## Lưu ý:
 Trên Windows:
 Địa chỉ IP của máy đang sử dụng được liệt kê dưới mục "IPv4 Address".
 Mặt nạ mạng được liệt kê dưới mục "Subnet Mask".
